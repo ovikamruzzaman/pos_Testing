@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Mini_ERP (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Mini_ERP (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
